@@ -1,0 +1,13 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #333;
+  line-height: 1.5;
+  background-color: pink;
+}
+
+.container {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=index.css.map */
